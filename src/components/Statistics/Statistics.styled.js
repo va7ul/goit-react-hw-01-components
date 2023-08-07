@@ -21,6 +21,7 @@ export const Item = styled.li`
   border: 1px solid black;
 `;
 export const Label = styled.span``;
+
 export const Percentage = styled.span`
   font-weight: bold;
 `;
